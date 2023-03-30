@@ -1,5 +1,5 @@
 {
-  "name": "astro--kiss-blog",
+  "name": "astro--kiss-microblog",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,9 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.1.8",
     "@astrojs/mdx": "^0.18.2",
     "@astrojs/rss": "^2.3.1",
-    "@astrojs/sitemap": "^1.2.1"
+    "@astrojs/sitemap": "^1.2.1",
+    "@fontsource/abeezee": "^4.5.10",
+    "astro": "^2.1.8"
   }
 }
