@@ -1,5 +1,5 @@
 ---
-title: "Lernen(n) lernen lernen"
+title: "Lerne(n) Lernen lernen"
 slug: "lernen-lernen-lernen"
 pubDate: "Apr 01 2023"
 heroImage: "/thinker.svg"
