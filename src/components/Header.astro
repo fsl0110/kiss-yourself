@@ -1,7 +1,17 @@
 ---
 import { SITE_TITLE } from "../consts";
+import Connection from "./Connection.astro";
 ---
 
 <header>
-  {SITE_TITLE}
+  <div></div>
+  <span>{SITE_TITLE}</span>
+  <Connection />
 </header>
+
+<style>
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+</style>

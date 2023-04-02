@@ -1,3 +1,5 @@
-Just a way to express my thoughts, remember them, and learn from them. Is this art?
+Just a way to express my thoughts, remember them, and learn from them.
 
-https://warm-vacherin-8609eb.netlify.app/
+Is this art?
+
+[kiss-yourself.world](https://kiss-yourself.world)
