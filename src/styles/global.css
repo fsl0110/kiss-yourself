@@ -32,10 +32,8 @@ article h1 {
   font-size: 3rem;
 }
 
-article time {
-  display: block;
-  margin-bottom: 1em;
-  margin-top: -1em;
+article img {
+  padding-bottom: 20px;
 }
 
 header {

@@ -2,7 +2,6 @@
 import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
-import FormattedDate from "../components/FormattedDate.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
@@ -18,7 +17,6 @@ const { title, description, pubDate, heroImage } = Astro.props;
     <a href="/">zurück</a>
     <article>
       <h1>{title}</h1>
-      <FormattedDate date={pubDate} />
       <img src={heroImage} alt="" />
       <slot />
     </article>
