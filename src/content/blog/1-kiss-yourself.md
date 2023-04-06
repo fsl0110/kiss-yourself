@@ -7,4 +7,20 @@ heroImage: "/the-beginning-of-everything.png"
 
 @Dec 31, 2004
 
-Image by Frank Simon Lechner, Music by Tim Bendzko, Inspiration by MacGyver, Thoughts by you
+Image by Frank Simon Lechner
+
+...
+
+Music by Tim Bendzko
+
+...
+
+Inspiration by MacGyver
+
+...
+
+Values by Star Trek
+
+...
+
+Thoughts by you
