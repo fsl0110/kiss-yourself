@@ -35,4 +35,10 @@ Thoughts by you
 
 ...
 
-Use everything everywhere all at once
+## Helpfull hints to KISS yourself
+
+> Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty. (Albert Einstein)
+
+...
+
+> Use everything everywhere all at once (Everything)
