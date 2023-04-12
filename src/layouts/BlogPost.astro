@@ -17,7 +17,9 @@ const { title, description, pubDate, heroImage } = Astro.props;
     <a href="/">KISS</a>
     <article>
       <h1>{title}</h1>
-      <img src={heroImage} alt="" />
+      <a href="http://kiss-everyone.world" title="live">
+        <img src={heroImage} alt="live" /></a
+      >
       <slot />
     </article>
   </main>

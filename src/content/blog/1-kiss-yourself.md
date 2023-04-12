@@ -23,7 +23,7 @@ Values by Star Trek
 
 ...
 
-Frequenz by Matthieu Ricard
+Frequency by Matthieu Ricard
 
 ...
 
