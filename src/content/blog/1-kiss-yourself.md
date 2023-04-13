@@ -11,23 +11,23 @@ Image by Frank Simon Lechner
 
 ...
 
-Music by Tim Bendzko
+Music by [Tim Bendzko - Motivation](https://www.timbendzko.de/)
 
 ...
 
-Inspiration by MacGyver
+Inspiration by [Richard Dean Anderson - MacGyver](https://rdanderson.com/)
 
 ...
 
-Values by Star Trek
+Values by [Patrick Stewart - Star Trek](https://en.wikipedia.org/wiki/Patrick_Stewart)
 
 ...
 
-Frequency by Matthieu Ricard
+Frequency by [Matthieu Ricard - Compassion](https://www.matthieuricard.org/en/)
 
 ...
 
-Thoughts by you
+Thoughts by [You - Activation](http://kiss-yourself.world)
 
 ...
 
