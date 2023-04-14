@@ -33,5 +33,14 @@ const posts = await getCollection("blog");
       </section>
     </main>
     <Footer />
+    <script>
+      let winter = window.localStorage.getItem("winter");
+      if (winter === "0") {
+        const door = document.getElementsByClassName("door")[0];
+        const snow = document.getElementsByClassName("snow")[0];
+        snow.remove();
+        door.remove();
+      }
+    </script>
   </body>
 </html>

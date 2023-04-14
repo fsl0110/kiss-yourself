@@ -18,9 +18,12 @@
 </style>
 <script>
   const door = document.getElementsByClassName("door")[0];
-  door.addEventListener("click", () => {
-    const snow = document.getElementsByClassName("snow")[0];
-    snow.remove();
-    door.remove();
-  });
+  if (door) {
+    door.addEventListener("click", () => {
+      const snow = document.getElementsByClassName("snow")[0];
+      snow.remove();
+      door.remove();
+      window.localStorage.setItem("winter", "0");
+    });
+  }
 </script>
